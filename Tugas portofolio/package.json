@@ -1,0 +1,23 @@
+{
+  "name": "portofolio",
+  "version": "1.0.0",
+  "description": "Membuat portofolio website",
+  "keywords": [
+    "portofolio",
+    "website"
+  ],
+  "license": "MIT",
+  "author": "Shamil ibnu hamzah",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "vite"
+  },
+  "dependencies": {
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "vite": "^8.3.8"
+  }
+}
